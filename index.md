@@ -10,6 +10,7 @@ Hi, we are very glad to see you on our website.
 
 iTip GmbH, company based in Malta created by Germans, specializes in presenting, marketing, selling and supporting specific software for the gaming industry. In addition, iTip conducts software training for these products from beginner to expert level. Stay informed and subscribe to our RSS news feed or the email newsletter on the news page!
 
+***
 
 **Wir sind froh, Sie hier zu sehen. Unser Unternehmen ist seit 2008 erfolgreich und hat schon vielen Firmen geholfen. Kontaktieren Sie uns und wir helfen auch Ihnen gerne weiter.**
 
