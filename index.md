@@ -43,11 +43,11 @@ Ausführliche Informationen zu topset Computersatz finden Sie unter Topset Websi
 
 ## Testimonials
 *"Vielen Dank, dass Sie sich die Zeit genommen haben, diese Probleme zu untersuchen. Das haben wir sehr zu schätzen gewusst. Die Endbenutzer haben die von Ihnen vorgeschriebene Lösung implementiert, und alles scheint zu funktionieren."*
-**IT-Support** - [testcasino.at](https://testcasino.at/ "Testcasino.at")
+**IT-Support** - [testcasino.at](https://testcasino.at/)
 
 
 *"Zunächst einmal ein großes Dankeschön, dass Sie den weiten Weg auf sich genommen haben, um das InMath-Seminar abzuhalten. Sowohl Lorraine als auch ich fanden es sehr nützlich und sehr anregend - Ihr Wissen ist enzyklopädisch und sehr inspirierend! Nochmals vielen Dank für einen sehr interessanten und informativen Tag."*
-**Margie, Overflo Design & DTP, Kapstadt, Südafrika**
+**Margie, Overflo Design & DTP, Kapstadt, Südafrika** - [Overflo.design](https://www.designindaba.com/locations/south-africa/cape-town)
 
 *""... Dies ist eine kurze Nachricht, um Ihnen mitzuteilen, dass sowohl John als auch Sue sehr zufrieden mit dem Photoshop-Training in dieser Woche waren. John hat mich tatsächlich abends zu Hause angerufen und Sue hat es gleich am nächsten Morgen mit mir besprochen. Sie schätzen Ihre ganzheitliche Herangehensweise an die Software sehr und beide haben das Gefühl, dass sie mit neuen Ideen und neuem Enthusiasmus aus dem Tag hervorgegangen sind."*
-**S. Haw, Internationale Schifffahrtsorganisation**
+**S. Haw, Internationale Schifffahrtsorganisation** - [imo.org](https://www.imo.org/)
