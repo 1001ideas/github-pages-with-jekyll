@@ -43,7 +43,8 @@ Ausführliche Informationen zu topset Computersatz finden Sie unter Topset Websi
 
 ## Testimonials
 *"Vielen Dank, dass Sie sich die Zeit genommen haben, diese Probleme zu untersuchen. Das haben wir sehr zu schätzen gewusst. Die Endbenutzer haben die von Ihnen vorgeschriebene Lösung implementiert, und alles scheint zu funktionieren."*
-**IT-Support**
+**IT-Support** - [testcasino.at](https://testcasino.at/ "Testcasino.at")
+
 
 *"Zunächst einmal ein großes Dankeschön, dass Sie den weiten Weg auf sich genommen haben, um das InMath-Seminar abzuhalten. Sowohl Lorraine als auch ich fanden es sehr nützlich und sehr anregend - Ihr Wissen ist enzyklopädisch und sehr inspirierend! Nochmals vielen Dank für einen sehr interessanten und informativen Tag."*
 **Margie, Overflo Design & DTP, Kapstadt, Südafrika**
