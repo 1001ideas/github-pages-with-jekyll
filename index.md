@@ -23,7 +23,7 @@ Die iTip GmbH, ein von Deutschen gegründetes Unternehmen mit Sitz in Malta, hat
 ## Wichtiger Hinweis für alle InMath-Kunden
 InMath wird nicht mehr von der i.t.i.p. GmbH vertrieben. InMath wurde für InDesign/InCopy CS5/CS5.5 weiterentwickelt und ist nun Teil einer Suite namens "MathTools". Alle Informationen zu diesem Produkt erhalten Sie von den Entwicklern selbst: http://www.movemen.com.
 
-i.t.i.p. bietet weiterhin gerne Praxisschulungen sowie Online-Schulungen über Adobe Connect im Bereich mathematischer Satz mit InDesign/InCopy und InMath/mt.editor (MathTools) an. Bitte kontaktieren Sie mich für weitere Details: training@itip-gmbh.eu. Ich freue mich darauf, von Ihnen zu hören.
+i.t.i.p. bietet weiterhin gerne Praxisschulungen sowie Online-Schulungen über Adobe Connect im Bereich mathematischer Satz mit InDesign/InCopy und InMath/mt.editor (MathTools) an. Bitte kontaktieren Sie mich für weitere Details. Ich freue mich darauf, von Ihnen zu hören.
 
 Professioneller mathematischer Schriftsatz und mathematische Grafiken von i.t.i.p. / topset Computersatz
 Mit der Erfahrung und Kompetenz von mehr als 20 Jahren im Verlags- und Druckvorstufenbereich kann ich Ihnen einen wirklich professionellen wissenschaftlich/technisch/mathematischen Satz inklusive der dazugehörigen Grafiken anbieten. Wir sind Experten in:
